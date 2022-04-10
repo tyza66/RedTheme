@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/ys/ys",
+    "pages/lt/lt",
+    "pages/w/w",
+    "pages/sp/sp"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom",
+    "scrollIndicator": "none"
+  },
+  "tabBar": {
+    "selectedColor": "#FE5E00",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "影视",
+        "pagePath": "pages/ys/ys"
+      },
+      {
+        "text": "论坛",
+        "pagePath": "pages/lt/lt"
+      },
+      {
+        "text": "我",
+        "pagePath": "pages/w/w"
+      }
+    ],
+    "backgroundColor": "#FDFDFD",
+    "fontSize": "20px",
+    "iconWidth": "25px"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

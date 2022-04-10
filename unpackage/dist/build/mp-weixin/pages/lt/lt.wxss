@@ -1,0 +1,5 @@
+.top{height:25px;width:100%;background-color:#fff}.items{width:100%;height:180rpx;display:flex;flex-direction:row;justify-content:center;align-items:center}.item{width:180rpx;height:180rpx;margin:0 auto;display:flex;flex-direction:column;justify-content:center;align-items:center}.item image{width:100rpx;height:100rpx}.iti{width:100%;height:80rpx;display:flex;flex-direction:column;justify-content:center;align-items:center}.am{position:relative;width:100%;height:130rpx;background-color:#d0e0f3}.am1{position:relative;width:100%;height:130rpx;background-color:#fce1c4}.am .touxiang,
+	.am1 .touxiang{position:absolute;width:80rpx;height:80rpx;top:25rpx;left:40rpx}.am .dianhua,
+	.am1 .dianhua{position:absolute;width:40rpx;height:40rpx;top:25rpx;left:680rpx}.am .ming,
+	.am1 .ming{position:absolute;height:40rpx;top:25rpx;left:140rpx;font-family:楷体;font-weight:600rpx}.am .shi,
+	.am1 .shi{position:absolute;height:40rpx;color:#7a6a57;top:65rpx;left:140rpx;font-family:楷体;font-weight:600rpx;font-size:30rpx}
